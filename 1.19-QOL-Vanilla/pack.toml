@@ -1,0 +1,13 @@
+name = "1 . 19 QOL Vanilla"
+author = "Toasty"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8005b59b2b29eecd807daf8ea9ada6b9515638070ec630dfff8567aaf2f6db6f"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"
