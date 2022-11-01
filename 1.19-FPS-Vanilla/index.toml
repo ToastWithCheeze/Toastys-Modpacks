@@ -46,6 +46,11 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
+file = "mods/fullbright-1-19.pw.toml"
+hash = "1eb2828f7b237d1d86ec6c24c6fdaedf64546d73df7eedb13e5a446e532104a1"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
