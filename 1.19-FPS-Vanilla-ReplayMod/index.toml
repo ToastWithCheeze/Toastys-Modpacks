@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "571c28f3e4ecb7cc99834df642e9a09f1307a8eb5ef76e5f97c332334c96bd9e"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/fullbright-1-19.pw.toml"
+hash = "1eb2828f7b237d1d86ec6c24c6fdaedf64546d73df7eedb13e5a446e532104a1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "29343584d66805c0d453bbd6a04bde62119a372ad6f2be32203a057cd5dd639b"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6600c70db094a5a9a5b50769fee46edba2a126cb20e63cdbabb47ee0ecde3370"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
+metafile = true

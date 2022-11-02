@@ -1,0 +1,13 @@
+name = "1 . 19 FPS Vanilla Replay Mod"
+author = "Toasty"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d5ef96b408820b720495da72114f26e72d56ff0f8a3b563704a02c32d0f3400"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"
