@@ -11,6 +11,11 @@ hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
@@ -91,13 +96,13 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "79721c68c3475400efab4fc288cc27e13d4337f649e1ca09527258c5abb49c52"
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6600c70db094a5a9a5b50769fee46edba2a126cb20e63cdbabb47ee0ecde3370"
 metafile = true
 
 [[files]]
@@ -108,4 +113,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
 metafile = true
