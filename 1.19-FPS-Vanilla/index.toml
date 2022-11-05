@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/replaymod.json"
+hash = "8620da404458ced00762d398aa157bf0af60f5245f6a7b0b166c1968dfb3a88f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -139,3 +143,7 @@ metafile = true
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "986d03e6133d53e50edabf287f8481f7fe256d3bfb6d024b534465d96d8f6f8a"
