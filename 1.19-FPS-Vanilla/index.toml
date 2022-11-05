@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/replaymod.json"
-hash = "76cf717c0b4c84541378d808aada14de1040c0235fb022f7e47ccb12f086f3bf"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
