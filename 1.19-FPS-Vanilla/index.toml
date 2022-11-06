@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "efa426c4cdc93d174f891da4e1366334263c08ec7c8a1eb88bda1128aa5f13b8"
+hash = "9cfe5bc3620d2e3decc0118710fe33e002b467f9fd450cc03f7cd32845682654"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "79721c68c3475400efab4fc288cc27e13d4337f649e1ca09527258c5abb49c52"
+hash = "a6f84585039de18c0876baf20d1240cc4a89b52513c91c607612597dd3450ea9"
 metafile = true
 
 [[files]]

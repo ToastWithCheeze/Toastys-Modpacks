@@ -11,3 +11,8 @@ hash = "031f924a9452e9e77b29e5d8d2283df07823757b"
 [update.modrinth]
 mod-id = "Nv2fQJo5"
 version = "1IAzC6AX"
+
+[option]
+optional = true
+default = false
+description = "Its replaymod duh"
