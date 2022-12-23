@@ -1,0 +1,13 @@
+name = "Create Pack"
+author = "Toasty"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "406190c0435f1c502aeaf42adcf1fbe84877ead009c53c9413b45522df20faef"
+
+[versions]
+forge = "40.0.0"
+minecraft = "1.18.2"
