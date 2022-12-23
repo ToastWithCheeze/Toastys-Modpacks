@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "e3d65028b237987261941fc7c18772e579e44b56a4372c889f1b9c991fefbbb7"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "f007f46d07c799c218443afc5072beecaa34a79cfefbcb858e4cbae0b4f2d4cf"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
 metafile = true
@@ -112,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "d09ce4a7162e674a57a967255ea1c458db6c4ce75a840681c68dccf9881b1e99"
+hash = "fa1c465051102d4c2e697cd36916b309d520f07f4736cbda8923786a5e550a66"
 metafile = true
 
 [[files]]
@@ -149,3 +161,7 @@ metafile = true
 file = "mods/vtdownloader.pw.toml"
 hash = "f5e07c0978c6682e23c87d325998bea07349ac1fe846ae3f1138eef6a00f2833"
 metafile = true
+
+[[files]]
+file = "shaderpacks/projectLUMA+-+v1.32.zip"
+hash = "aacbf251fc7afb5e01e4d751f7e83e2fc39cbef638bf0422e85a017035b8e0c1"
