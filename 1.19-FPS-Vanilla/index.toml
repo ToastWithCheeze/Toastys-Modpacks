@@ -56,12 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "571c28f3e4ecb7cc99834df642e9a09f1307a8eb5ef76e5f97c332334c96bd9e"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+hash = "d7b51db6f69be6f6ea175d7004980cc764abfd58161124a5bf064e4c26b839a5"
 metafile = true
 
 [[files]]
@@ -111,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "79ca453eb0631e1c64586873d017076570e3421b6b34a26cd31baf9d2ebf6c6c"
+hash = "4ada7e2cc8ce7a1b75331483991ef50431ba751ea3377734171ed5970587797d"
 metafile = true
 
 [[files]]
