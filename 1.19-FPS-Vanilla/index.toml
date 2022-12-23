@@ -96,11 +96,6 @@ hash = "945b097fe9fe561eb72dc811fd49f8f3dd43d88f7689c11a4a0863f70a4d39b8"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "65ca41e5e5dfe3034a153e8f050258a7c3e49be09d420eef533ed8ff26edde52"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "08d0b0f3ef1c44bed3b3acca5d95960d3d71055c2c8f103c036d3823069f3187"
 metafile = true
