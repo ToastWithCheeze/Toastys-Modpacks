@@ -1,4 +1,4 @@
-name = "1 . 19 FPS Vanilla"
+name = "1.19 FPS Vanilla"
 author = "Toasty"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "24c0e3366b4c18784a26e58558c554ff176de88442bb1d5e7517719e341f291f"
+hash = "355a72b5a0b952c2c3fc02fa7e9b47681d7466be3378169c9ed24f1207ba9628"
 
 [versions]
-fabric = "0.14.12"
 minecraft = "1.19.3"
-
-[options]
-acceptable-game-versions = ["1.19.2"]
+quilt = "0.18.1-beta.25"

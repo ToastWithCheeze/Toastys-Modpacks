@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/replaymod.json"
-hash = "8620da404458ced00762d398aa157bf0af60f5245f6a7b0b166c1968dfb3a88f"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
 metafile = true
@@ -15,8 +11,18 @@ hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
 metafile = true
 
 [[files]]
-file = "mods/audioplayer.pw.toml"
-hash = "53baddcd243ed36dd148b38e8e0249a37e68f40d13b0d1a51149ebfa88b4b6b4"
+file = "mods/architectury-api.pw.toml"
+hash = "b379855a3b75007c6548fc27dc2f6ae59e054d09dc77ed3f41aff79f537cc9cc"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "f0eac2832b0c04d4994683decf8bd1a4cf69fd3b12b5a735bf0138c5b59799b5"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "f91d19e039a084b4155d383d35d8a1bba33dbbf03c569f240ba13094795a42eb"
 metafile = true
 
 [[files]]
@@ -46,32 +52,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "20c94ff9b7c0e93709d2c61f51d92bed4c5f69e9e4e43823a6d63a1e77186566"
+hash = "b6f8dd724066667c1f859e2b31ab2bfcfdb66bb9df055282f0e57611ff83f6d4"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
-metafile = true
-
-[[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "d7b51db6f69be6f6ea175d7004980cc764abfd58161124a5bf064e4c26b839a5"
-metafile = true
-
-[[files]]
-file = "mods/fullbright-1-19.pw.toml"
-hash = "1eb2828f7b237d1d86ec6c24c6fdaedf64546d73df7eedb13e5a446e532104a1"
+file = "mods/gamma-utils.pw.toml"
+hash = "0783d9be562d9551bc805390116cd789652740943404fd2aee802e910f12632e"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
 metafile = true
 
 [[files]]
@@ -90,38 +81,53 @@ hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "945b097fe9fe561eb72dc811fd49f8f3dd43d88f7689c11a4a0863f70a4d39b8"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+file = "mods/notenoughcrashes.pw.toml"
+hash = "65ca41e5e5dfe3034a153e8f050258a7c3e49be09d420eef533ed8ff26edde52"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+file = "mods/qsl.pw.toml"
+hash = "08d0b0f3ef1c44bed3b3acca5d95960d3d71055c2c8f103c036d3823069f3187"
 metafile = true
 
 [[files]]
-file = "mods/replay-voice-chat.pw.toml"
-hash = "4ada7e2cc8ce7a1b75331483991ef50431ba751ea3377734171ed5970587797d"
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "38948e2683087d2f7ba67a1e8f272d8652c3d0eb2526ea69f7d8423d4aad5768"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "09335ac46a6a5a082f7c7a598d06a18a77747335dbfc824f935bfc7ca4e7ac1d"
+hash = "d09ce4a7162e674a57a967255ea1c458db6c4ce75a840681c68dccf9881b1e99"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "33e14af52da80c66dd89bd00fd0fba11a8096c75cca27f343ef6eced7f36911f"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "c29f9e8eb2d91d6779d7200696caa433d915bcf05f7a5dcf144d19add3a53506"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "485daf07babb32b65b4778ae44425a31eaace22341cb08f499fee6353e36ab40"
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "7bc329ba362e6b9bce089cc236b3ae8d049cb9f874310e5cf1591fa764e2cb54"
 metafile = true
 
 [[files]]
@@ -135,6 +141,11 @@ hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
 metafile = true
 
 [[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "2ab3e7218968c5d346e2e542774740163fab0d40622a2991be2373b0de2deeac"
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "f5e07c0978c6682e23c87d325998bea07349ac1fe846ae3f1138eef6a00f2833"
 metafile = true
