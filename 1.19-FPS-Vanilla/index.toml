@@ -111,6 +111,11 @@ hash = "38948e2683087d2f7ba67a1e8f272d8652c3d0eb2526ea69f7d8423d4aad5768"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml"
 hash = "d09ce4a7162e674a57a967255ea1c458db6c4ce75a840681c68dccf9881b1e99"
 metafile = true
