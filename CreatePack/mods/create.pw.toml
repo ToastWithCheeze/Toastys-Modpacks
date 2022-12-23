@@ -1,13 +1,13 @@
 name = "Create"
-filename = "create-mc1.18.2_v0.5.0c.jar"
+filename = "create-1.18.2-0.5.0.g.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LNytGWDc/versions/1.18.2-0.5.0c/create-mc1.18.2_v0.5.0c.jar"
 hash-format = "sha1"
-hash = "4b01df584e77401ae0b781a8ee03eede5ab31e84"
+hash = "8286b0993964c9f2aa9e7c55b28657ba252195d1"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "LNytGWDc"
-version = "w5UlhTtV"
+[update.curseforge]
+file-id = 4174329
+project-id = 328085
